@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\teddy\\source\\repos\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem.csproj",
+      "projectUniqueName": "C:\\Users\\teddy\\OneDrive\\Documents\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem.csproj",
       "projectName": "OnlineBookCatalogingSystem",
-      "projectPath": "C:\\Users\\teddy\\source\\repos\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem.csproj",
+      "projectPath": "C:\\Users\\teddy\\OneDrive\\Documents\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem.csproj",
       "packagesPath": "C:\\Users\\teddy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\teddy\\source\\repos\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\obj\\",
+      "outputPath": "C:\\Users\\teddy\\OneDrive\\Documents\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
