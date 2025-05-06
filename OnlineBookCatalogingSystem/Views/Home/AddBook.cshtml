@@ -1,7 +1,12 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
+﻿@model Book
 @{
+    ViewBag.Title = "Add Book";
 }
-
-<p>This is the add book page.</p>
+<h2>Add New Book</h2>
+@using (Html.BeginForm())
+{
+    <p>Title: @Html.TextBoxFor(m => m.Title)</p>
+    <p>Author: @Html.TextBoxFor(m => m.Author)</p>
+    <p>Description: @Html.TextAreaFor(m => m.Description)</p>
+    <button type="submit">Add Book</button>
+}
