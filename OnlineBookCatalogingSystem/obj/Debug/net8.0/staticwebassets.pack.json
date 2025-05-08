@@ -13,6 +13,18 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\wwwroot\\images\\background-image-2.jpg",
+      "PackagePath": "staticwebassets\\images\\background-image-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\wwwroot\\images\\background-image.jpg",
+      "PackagePath": "staticwebassets\\images\\background-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\wwwroot\\images\\bookcovers\\hunger-games.jpg",
+      "PackagePath": "staticwebassets\\images\\bookcovers\\hunger-games.jpg"
+    },
+    {
       "Id": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

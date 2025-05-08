@@ -1,5 +1,51 @@
-﻿@{
+﻿@model IEnumerable<OnlineBookCatalogingSystem.Models.Book>
+
+@{
     ViewBag.Title = "Home";
 }
 
-<h1 style="font-size: 100px;">Reading is <br />fascinating.</h1>
+
+
+<div class="d-flex align-items-center justify-content-between">
+    <h1 style="font-size: 100px; color: #4c7766">Reading is <br />fascinating.</h1>
+    <img src="@Url.Content("~/images/background-image.jpg")" alt="Background-Image" style="width:600px;" />
+</div>
+
+<hr class="mt-4"/>
+
+
+<div class="d-flex justify-content-between align-items-center">
+    <div class="d-flex">
+        <img src="@Url.Content("~/images/background-image-2.jpg")" alt="Background-Image" style="width:400px; height: auto; background-size: cover;" />
+        <div style="width: 100px; background-color: #4c7766; margin-left: 1rem;">
+    </div>
+
+        <p></p>
+    </div>
+    <div class="d-flex flex-column justify-content-end text-lg-end">
+        <h1 style="color: #4c7766" class="fw-bold">Deep dive into the <br /> world of books!</h1>
+        <p>A library is a curated collection of sources of information and similar <br />resources selected by experts and made accessible to a defined <br />community for reference or borrowing.</p>
+        <p>by Jobert I. Tunguia - BSIT 2A</p>
+    </div>
+</div>
+
+
+
+<div class="mt-5">
+    <h1>POPULAR BOOKS</h1>
+
+    <div class="mt-4 w-100">
+        <div class="row">
+            @foreach (var item in Model)
+            {
+                <div class="col-md-3 mb-4">
+                    <img src="@Url.Content("~/images/bookcovers/" + item.CoverImageUrl)" class="card-img-top mx-auto d-block" alt="cover" style="width: 90%; height: 300px; background-color: gainsboro; margin-top: 15px; background-size: cover;" />
+                    <div class="card-body text-start">
+                        <p class="card-title mb-1 lh-1 h5">@Html.DisplayFor(model => item.Title)</p>
+                        <p class="fst-italic mt-0" style="font-size: 15px;">@Html.DisplayFor(Model => item.Genre)</p>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>

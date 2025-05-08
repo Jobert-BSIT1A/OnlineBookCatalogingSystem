@@ -10,9 +10,20 @@
     <link rel="stylesheet" href="~/OnlineBookCatalogingSystem.styles.css" asp-append-version="true" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
 </head>
-<body style="width: 90%; margin: auto;">
+
+<style>
+    .navbar-nav .nav-item.active .nav-link {
+    color: #007bff !important; /* Change this to your desired active link color */
+}
+
+.navbar-nav .nav-item.active .nav-link i {
+    color: #007bff !important; /* Change this to the color you want for the active icon */
+}
+
+</style>
+<body style="display: flex; flex-direction: column; min-height: 100vh; width: 90%; margin: auto; overflow-x: hidden;">
     <header>
-        <nav class="navbar navbar-expand-sm navbar-light bg-white border-bottom box-shadow mb-3">
+        <nav class="navbar navbar-expand-sm navbar-light mb-3">
             <div class="container-fluid">
                 <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">
                     E-Library
@@ -24,43 +35,45 @@
                 </button>
 
                 <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
-                    <ul class="navbar-nav">
-                        <li class="nav-item">
+                    <ul class="navbar-nav gap-3">
+                        <li class="nav-item @(ViewData["ActivePage"] as string == "Home" ? "active" : "")">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">
                                 <i class="fas fa-home"></i>
                             </a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="BookList">
+                        <li class="nav-item @(ViewData["ActivePage"] as string == "BookList" ? "active" : "")">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Books" asp-action="Index">
                                 <i class="fas fa-book"></i>
                             </a>
                         </li>
-                        <li class="nav-item">
+                        <li class="nav-item @(ViewData["ActivePage"] as string == "Favorites" ? "active" : "")">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">
                                 <i class="fas fa-heart"></i>
                             </a>
                         </li>
-                        <li class="nav-item">
+                        <li class="nav-item @(ViewData["ActivePage"] as string == "UserProfile" ? "active" : "")">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="BookList">
                                 <i class="fas fa-circle-user"></i>
                             </a>
                         </li>
+
                     </ul>
                 </div>
             </div>
         </nav>
     </header>
-    <div>
+    <div style="flex: 1;">
         <main role="main" class="pb-3">
             @RenderBody()
         </main>
     </div>
 
-    <footer class="border-top footer text-muted">
-        <div class="container">
-            &copy; 2025 - OnlineBookCatalogingSystem - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
-        </div>
-    </footer>
+
+     <footer class="border-top text-muted">
+         <div class="container">
+             &copy; 2025 - OnlineBookCatalogingSystem - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+         </div>
+     </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>

@@ -9,7 +9,7 @@ namespace OnlineBookCatalogingSystem.Models
         public string? Description { get; set; }
         public int PublishYear { get; set; }
         public string? Genre { get; set; }
-        public string? CoverImageUr1 { get; set; }
+        public string? CoverImageUrl { get; set; }
     }
 
 }
