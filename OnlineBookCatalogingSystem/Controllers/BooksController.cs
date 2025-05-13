@@ -19,13 +19,10 @@ namespace OnlineBookCatalogingSystem.Controllers
             _context = context;
         }
 
-        // GET: Books1
         public async Task<IActionResult> Index()
         {
             return View(await _context.Books.ToListAsync());
         }
-
-        // GET: Books1/Details/5
         public async Task<IActionResult> Details(int? id)
         {
             if (id == null)
@@ -40,21 +37,21 @@ namespace OnlineBookCatalogingSystem.Controllers
                 return NotFound();
             }
 
+            book.ViewCount++;
+            _context.Update(book);
+            await _context.SaveChangesAsync();
+
             return View(book);
         }
 
-        // GET: Books1/Create
         public IActionResult Create()
         {
             return View();
         }
 
-        // POST: Books1/Create
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("BookID,Title,Author,Description,PublishYear,Genre,CoverImageUr1")] Book book)
+        public async Task<IActionResult> Create([Bind("BookID,Title,Author,Description,PublishYear,Genre,CoverImageUrl")] Books book)
         {
             if (ModelState.IsValid)
             {
@@ -65,7 +62,6 @@ namespace OnlineBookCatalogingSystem.Controllers
             return View(book);
         }
 
-        // GET: Books1/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null)
@@ -81,12 +77,9 @@ namespace OnlineBookCatalogingSystem.Controllers
             return View(book);
         }
 
-        // POST: Books1/Edit/5
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("BookID,Title,Author,Description,PublishYear,Genre,CoverImageUr1")] Book book)
+        public async Task<IActionResult> Edit(int id, [Bind("BookID,Title,Author,Description,PublishYear,Genre,CoverImageUrl")] Books book)
         {
             if (id != book.BookID)
             {

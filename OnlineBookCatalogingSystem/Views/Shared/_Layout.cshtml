@@ -21,11 +21,13 @@
 }
 
 </style>
+
 <body style="display: flex; flex-direction: column; min-height: 100vh; width: 90%; margin: auto; overflow-x: hidden;">
     <header>
         <nav class="navbar navbar-expand-sm navbar-light mb-3">
             <div class="container-fluid">
                 <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">
+                    <img src="@Url.Content("~/images/logo.png")" style="width: 30px; height: 30px;"/>
                     E-Library
                 </a>
 
@@ -52,11 +54,15 @@
                             </a>
                         </li>
                         <li class="nav-item @(ViewData["ActivePage"] as string == "UserProfile" ? "active" : "")">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="BookList">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Account" asp-action="Manage">
                                 <i class="fas fa-circle-user"></i>
                             </a>
                         </li>
 
+                    </ul>
+
+                    <ul class="navbar-nav">
+                        <partial name="_LoginPartial" />
                     </ul>
                 </div>
             </div>

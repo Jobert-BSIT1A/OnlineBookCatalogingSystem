@@ -19,6 +19,7 @@ namespace OnlineBookCatalogingSystem.Controllers
 
         public IActionResult Index()
         {
+
             ViewData["ActivePage"] = "Home";
             var books = _context.Books.ToList();
             return View(books);

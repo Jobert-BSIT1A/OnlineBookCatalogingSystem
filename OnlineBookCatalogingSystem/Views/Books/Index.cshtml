@@ -1,42 +1,52 @@
-﻿@model IEnumerable<OnlineBookCatalogingSystem.Models.Book>
+﻿@model IEnumerable<OnlineBookCatalogingSystem.Models.Books>
 
 @{
     ViewData["Title"] = "Index";
 }
 
-<h1>Index</h1>
+<style>
+    .card:hover {
+        transform: scale(1.03);
+        transition: transform 0.2s ease, box-shadow 0.2s ease;
+        box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+        cursor: pointer;
+    }
+</style>
 
-<p>
-    <a asp-action="Create">Create New</a>
-</p>
 
+<h1 class="text-start text-success fw-bold mb-4" style="margin-left: 4rem; color: #4c7766;">List of Books</h1>
 
-<div class="container mt-4">
+<div class="container">
     <div class="row">
         @foreach (var item in Model)
         {
-            <div class="col-md-3 mb-4">
-                <div class="card h-100 text-center">
-                    <img src=" @Html.DisplayFor(model => item.CoverImageUrl)" class="card-img-top mx-auto d-block" alt="cover" style="width: 90%; height: 100px; background-color: gainsboro; margin-top: 15px;" />
-                    <div class="card-body text-start">
-                        <p class="card-title mb-1 lh-1 h5">@Html.DisplayFor(model => item.Title)</p>
-                        <p class="fst-italic">@Html.DisplayFor(Model => item.Genre)</p>
-                        <div class="lh-sm">
-                            <p class="mb-1 fw-bold">Description</p>
-                            <p class="mb-0">
-                                @{
-                                    var desc = item.Description;
-                                    var shortDesc = desc.Length > 200 ? desc.Substring(0, 200) + "..." : desc;
-                                }
-                                @shortDesc
-                            </p>
-                        </div>
+            <div class="col-md-6 col-lg-3 mb-4">
+                <div class="card h-100 shadow-sm border-1">
+                    <img src="@Url.Content("~/images/bookcovers/" + item.CoverImageUrl)"
+                         class="card-img-top mx-auto mt-3"
+                         alt="Cover of @item.Title"
+                         style="width: 90%; height: 160px; object-fit: contain" />
 
-                        
+                    <div class="card-body">
+                        <h5 class="card-title fw-bold text-truncate">@item.Title</h5>
+                        <p class="card-subtitle text-muted fst-italic mb-2">@item.Genre</p>
+
+                        <p class="card-text small">
+                            <span class="fw-bold">Description:</span><br />
+                            @{
+                                var shortDesc = item.Description?.Length > 150
+                                ? item.Description.Substring(0, 150) + "..."
+                                : item.Description;
+                            }
+                            @shortDesc
+                        </p>
+
+                        <a asp-controller="Books" asp-action="Details" asp-route-id="@item.BookID" class="btn btn-outline-success btn-sm mt-auto">
+                            View Details
+                        </a>
                     </div>
                 </div>
             </div>
         }
     </div>
 </div>
-

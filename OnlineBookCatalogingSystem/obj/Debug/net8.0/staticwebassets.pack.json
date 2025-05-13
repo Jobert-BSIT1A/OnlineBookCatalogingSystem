@@ -21,8 +21,132 @@
       "PackagePath": "staticwebassets\\images\\background-image.jpg"
     },
     {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\wwwroot\\images\\bookcovers\\Adventure-of-huckleberry-finn.jpg",
+      "PackagePath": "staticwebassets\\images\\bookcovers\\Adventure-of-huckleberry-finn.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\wwwroot\\images\\bookcovers\\Alices-adventure -in-wonderland.jpg",
+      "PackagePath": "staticwebassets\\images\\bookcovers\\Alices-adventure -in-wonderland.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\wwwroot\\images\\bookcovers\\Anna-karenina.jpg",
+      "PackagePath": "staticwebassets\\images\\bookcovers\\Anna-karenina.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\wwwroot\\images\\bookcovers\\Crime-and-punishment.jpg",
+      "PackagePath": "staticwebassets\\images\\bookcovers\\Crime-and-punishment.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\wwwroot\\images\\bookcovers\\Don-quixote.jpg",
+      "PackagePath": "staticwebassets\\images\\bookcovers\\Don-quixote.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\wwwroot\\images\\bookcovers\\Heart-of-darkness.jpg",
+      "PackagePath": "staticwebassets\\images\\bookcovers\\Heart-of-darkness.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\wwwroot\\images\\bookcovers\\In-search-of-lost-time.jpg",
+      "PackagePath": "staticwebassets\\images\\bookcovers\\In-search-of-lost-time.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\wwwroot\\images\\bookcovers\\Lolita.jpg",
+      "PackagePath": "staticwebassets\\images\\bookcovers\\Lolita.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\wwwroot\\images\\bookcovers\\Madame-Bovary.jpg",
+      "PackagePath": "staticwebassets\\images\\bookcovers\\Madame-Bovary.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\wwwroot\\images\\bookcovers\\Middlemarch.jpg",
+      "PackagePath": "staticwebassets\\images\\bookcovers\\Middlemarch.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\wwwroot\\images\\bookcovers\\Moby-dick.jpg",
+      "PackagePath": "staticwebassets\\images\\bookcovers\\Moby-dick.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\wwwroot\\images\\bookcovers\\Nineteen-eighty-four.jpg",
+      "PackagePath": "staticwebassets\\images\\bookcovers\\Nineteen-eighty-four.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\wwwroot\\images\\bookcovers\\One-hundred-years-of-solitude.jpg",
+      "PackagePath": "staticwebassets\\images\\bookcovers\\One-hundred-years-of-solitude.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\wwwroot\\images\\bookcovers\\Pride-and-prejudice.jpg",
+      "PackagePath": "staticwebassets\\images\\bookcovers\\Pride-and-prejudice.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\wwwroot\\images\\bookcovers\\The-bible.jpg",
+      "PackagePath": "staticwebassets\\images\\bookcovers\\The-bible.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\wwwroot\\images\\bookcovers\\The-brothers-karamazov.jpg",
+      "PackagePath": "staticwebassets\\images\\bookcovers\\The-brothers-karamazov.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\wwwroot\\images\\bookcovers\\The-catcher-in-the-rye.jpg",
+      "PackagePath": "staticwebassets\\images\\bookcovers\\The-catcher-in-the-rye.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\wwwroot\\images\\bookcovers\\The-divine-comedy.jpg",
+      "PackagePath": "staticwebassets\\images\\bookcovers\\The-divine-comedy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\wwwroot\\images\\bookcovers\\The-grapes-of-wrath.jpg",
+      "PackagePath": "staticwebassets\\images\\bookcovers\\The-grapes-of-wrath.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\wwwroot\\images\\bookcovers\\The-great-gatsby.jpeg",
+      "PackagePath": "staticwebassets\\images\\bookcovers\\The-great-gatsby.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\wwwroot\\images\\bookcovers\\The-lord-of-the-rings.jpg",
+      "PackagePath": "staticwebassets\\images\\bookcovers\\The-lord-of-the-rings.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\wwwroot\\images\\bookcovers\\The-odyssey.jpg",
+      "PackagePath": "staticwebassets\\images\\bookcovers\\The-odyssey.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\wwwroot\\images\\bookcovers\\The-sound-and-the-fury.jpg",
+      "PackagePath": "staticwebassets\\images\\bookcovers\\The-sound-and-the-fury.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\wwwroot\\images\\bookcovers\\The-stranger.jpg",
+      "PackagePath": "staticwebassets\\images\\bookcovers\\The-stranger.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\wwwroot\\images\\bookcovers\\The-trial.jpg",
+      "PackagePath": "staticwebassets\\images\\bookcovers\\The-trial.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\wwwroot\\images\\bookcovers\\To-kill-a-mockingbird.jpg",
+      "PackagePath": "staticwebassets\\images\\bookcovers\\To-kill-a-mockingbird.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\wwwroot\\images\\bookcovers\\To-the-lighthouse.jpg",
+      "PackagePath": "staticwebassets\\images\\bookcovers\\To-the-lighthouse.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\wwwroot\\images\\bookcovers\\Ulysses.jpg",
+      "PackagePath": "staticwebassets\\images\\bookcovers\\Ulysses.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\wwwroot\\images\\bookcovers\\War-and-peace.jpg",
+      "PackagePath": "staticwebassets\\images\\bookcovers\\War-and-peace.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\wwwroot\\images\\bookcovers\\Wuthering-heights.jpg",
+      "PackagePath": "staticwebassets\\images\\bookcovers\\Wuthering-heights.jpg"
+    },
+    {
       "Id": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\wwwroot\\images\\bookcovers\\hunger-games.jpg",
       "PackagePath": "staticwebassets\\images\\bookcovers\\hunger-games.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
     },
     {
       "Id": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\wwwroot\\js\\site.js",

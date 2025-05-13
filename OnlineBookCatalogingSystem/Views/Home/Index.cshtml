@@ -1,9 +1,20 @@
-﻿@model IEnumerable<OnlineBookCatalogingSystem.Models.Book>
+﻿@model IEnumerable<OnlineBookCatalogingSystem.Models.Books>
 
 @{
     ViewBag.Title = "Home";
 }
 
+<style>
+    .book-card:hover { 
+        transform: translateY(-5px);
+        box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+        transition: all 0.3s ease-in-out;
+    }
+
+    .book-title-link:hover {
+        color: #4c7766 !important;
+    }
+</style>
 
 
 <div class="d-flex align-items-center justify-content-between">
@@ -11,7 +22,7 @@
     <img src="@Url.Content("~/images/background-image.jpg")" alt="Background-Image" style="width:600px;" />
 </div>
 
-<hr class="mt-4"/>
+<hr style="margin: 50px;"/>
 
 
 <div class="d-flex justify-content-between align-items-center">
@@ -29,23 +40,34 @@
     </div>
 </div>
 
+<hr style="margin: 50px;"/>
 
 
 <div class="mt-5">
-    <h1>POPULAR BOOKS</h1>
+    <h1 class="fw-bold mb-4" style="color: #4c7766;">POPULAR BOOKS</h1>
 
-    <div class="mt-4 w-100">
-        <div class="row">
-            @foreach (var item in Model)
-            {
-                <div class="col-md-3 mb-4">
-                    <img src="@Url.Content("~/images/bookcovers/" + item.CoverImageUrl)" class="card-img-top mx-auto d-block" alt="cover" style="width: 90%; height: 300px; background-color: gainsboro; margin-top: 15px; background-size: cover;" />
-                    <div class="card-body text-start">
-                        <p class="card-title mb-1 lh-1 h5">@Html.DisplayFor(model => item.Title)</p>
-                        <p class="fst-italic mt-0" style="font-size: 15px;">@Html.DisplayFor(Model => item.Genre)</p>
+    <div class="row">
+        @foreach (var item in Model.Take(8))
+        {
+            <div class="col-6 col-md-4 col-lg-3 mb-4">
+                <div class="card h-100 border-1 shadow-sm text-center book-card">
+                    <img src="@Url.Content("~/images/bookcovers/" + item.CoverImageUrl)"
+                         class="card-img-top mx-auto mt-3"
+                         alt="Cover of @item.Title"
+                         style="width: 120px; height: 180px; object-fit: cover; background-color: gainsboro;" />
+
+                    <div class="card-body">
+                        <h6 class="card-title fw-bold text-truncate">
+                            <a asp-controller="Books" asp-action="Details" asp-route-id="@item.BookID" class="text-decoration-none text-dark">
+                                @item.Title
+                            </a>
+                        </h6>
+                        <p class="card-subtitle fst-italic text-muted" style="font-size: 0.9rem;">
+                            @item.Genre
+                        </p>
                     </div>
                 </div>
-            }
-        </div>
+            </div>
+        }
     </div>
 </div>

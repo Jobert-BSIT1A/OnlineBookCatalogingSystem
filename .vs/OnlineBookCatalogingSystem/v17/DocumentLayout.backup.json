@@ -3,56 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{74BF739F-E91F-41C2-A4D7-F91A22A10C23}|OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem.csproj|c:\\users\\user\\onedrive\\desktop\\onlinebookcatalogingsystem\\onlinebookcatalogingsystem\\onlinebookcatalogingsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{74BF739F-E91F-41C2-A4D7-F91A22A10C23}|OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem.csproj|solutionrelative:onlinebookcatalogingsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{74BF739F-E91F-41C2-A4D7-F91A22A10C23}|OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem.csproj|c:\\users\\user\\onedrive\\desktop\\onlinebookcatalogingsystem\\onlinebookcatalogingsystem\\onlinebookcatalogingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74BF739F-E91F-41C2-A4D7-F91A22A10C23}|OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem.csproj|solutionrelative:onlinebookcatalogingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74BF739F-E91F-41C2-A4D7-F91A22A10C23}|OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem.csproj|c:\\users\\user\\onedrive\\desktop\\onlinebookcatalogingsystem\\onlinebookcatalogingsystem\\onlinebookcatalogingsystem\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{74BF739F-E91F-41C2-A4D7-F91A22A10C23}|OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem.csproj|solutionrelative:onlinebookcatalogingsystem\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{74BF739F-E91F-41C2-A4D7-F91A22A10C23}|OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem.csproj|c:\\users\\user\\onedrive\\desktop\\onlinebookcatalogingsystem\\onlinebookcatalogingsystem\\onlinebookcatalogingsystem\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74BF739F-E91F-41C2-A4D7-F91A22A10C23}|OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem.csproj|solutionrelative:onlinebookcatalogingsystem\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{74BF739F-E91F-41C2-A4D7-F91A22A10C23}|OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem.csproj|c:\\users\\user\\onedrive\\desktop\\onlinebookcatalogingsystem\\onlinebookcatalogingsystem\\onlinebookcatalogingsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74BF739F-E91F-41C2-A4D7-F91A22A10C23}|OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem.csproj|solutionrelative:onlinebookcatalogingsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74BF739F-E91F-41C2-A4D7-F91A22A10C23}|OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem.csproj|c:\\users\\user\\onedrive\\desktop\\onlinebookcatalogingsystem\\onlinebookcatalogingsystem\\onlinebookcatalogingsystem\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74BF739F-E91F-41C2-A4D7-F91A22A10C23}|OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem.csproj|solutionrelative:onlinebookcatalogingsystem\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74BF739F-E91F-41C2-A4D7-F91A22A10C23}|OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem.csproj|c:\\users\\user\\onedrive\\desktop\\onlinebookcatalogingsystem\\onlinebookcatalogingsystem\\onlinebookcatalogingsystem\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74BF739F-E91F-41C2-A4D7-F91A22A10C23}|OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem.csproj|solutionrelative:onlinebookcatalogingsystem\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74BF739F-E91F-41C2-A4D7-F91A22A10C23}|OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem.csproj|c:\\users\\user\\onedrive\\desktop\\onlinebookcatalogingsystem\\onlinebookcatalogingsystem\\onlinebookcatalogingsystem\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74BF739F-E91F-41C2-A4D7-F91A22A10C23}|OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem.csproj|solutionrelative:onlinebookcatalogingsystem\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{74BF739F-E91F-41C2-A4D7-F91A22A10C23}|OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem.csproj|c:\\users\\user\\onedrive\\desktop\\onlinebookcatalogingsystem\\onlinebookcatalogingsystem\\onlinebookcatalogingsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{74BF739F-E91F-41C2-A4D7-F91A22A10C23}|OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem.csproj|solutionrelative:onlinebookcatalogingsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74BF739F-E91F-41C2-A4D7-F91A22A10C23}|OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem.csproj|c:\\users\\user\\onedrive\\desktop\\onlinebookcatalogingsystem\\onlinebookcatalogingsystem\\onlinebookcatalogingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74BF739F-E91F-41C2-A4D7-F91A22A10C23}|OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem.csproj|solutionrelative:onlinebookcatalogingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{74BF739F-E91F-41C2-A4D7-F91A22A10C23}|OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem.csproj|c:\\users\\user\\onedrive\\desktop\\onlinebookcatalogingsystem\\onlinebookcatalogingsystem\\onlinebookcatalogingsystem\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74BF739F-E91F-41C2-A4D7-F91A22A10C23}|OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem.csproj|solutionrelative:onlinebookcatalogingsystem\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74BF739F-E91F-41C2-A4D7-F91A22A10C23}|OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem.csproj|c:\\users\\user\\onedrive\\desktop\\onlinebookcatalogingsystem\\onlinebookcatalogingsystem\\onlinebookcatalogingsystem\\views\\home\\booklist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{74BF739F-E91F-41C2-A4D7-F91A22A10C23}|OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem.csproj|solutionrelative:onlinebookcatalogingsystem\\views\\home\\booklist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{74BF739F-E91F-41C2-A4D7-F91A22A10C23}|OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem.csproj|c:\\users\\user\\onedrive\\desktop\\onlinebookcatalogingsystem\\onlinebookcatalogingsystem\\onlinebookcatalogingsystem\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74BF739F-E91F-41C2-A4D7-F91A22A10C23}|OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem.csproj|solutionrelative:onlinebookcatalogingsystem\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74BF739F-E91F-41C2-A4D7-F91A22A10C23}|OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem.csproj|c:\\users\\user\\onedrive\\desktop\\onlinebookcatalogingsystem\\onlinebookcatalogingsystem\\onlinebookcatalogingsystem\\data\\onlinebookcatalogingsystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74BF739F-E91F-41C2-A4D7-F91A22A10C23}|OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem.csproj|solutionrelative:onlinebookcatalogingsystem\\data\\onlinebookcatalogingsystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{74BF739F-E91F-41C2-A4D7-F91A22A10C23}|OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem.csproj|c:\\users\\user\\onedrive\\desktop\\onlinebookcatalogingsystem\\onlinebookcatalogingsystem\\onlinebookcatalogingsystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74BF739F-E91F-41C2-A4D7-F91A22A10C23}|OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem.csproj|solutionrelative:onlinebookcatalogingsystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74BF739F-E91F-41C2-A4D7-F91A22A10C23}|OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem.csproj|c:\\users\\user\\onedrive\\desktop\\onlinebookcatalogingsystem\\onlinebookcatalogingsystem\\onlinebookcatalogingsystem\\migrations\\20250507084800_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74BF739F-E91F-41C2-A4D7-F91A22A10C23}|OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem.csproj|solutionrelative:onlinebookcatalogingsystem\\migrations\\20250507084800_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{74BF739F-E91F-41C2-A4D7-F91A22A10C23}|OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem.csproj|c:\\users\\user\\onedrive\\desktop\\onlinebookcatalogingsystem\\onlinebookcatalogingsystem\\onlinebookcatalogingsystem\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74BF739F-E91F-41C2-A4D7-F91A22A10C23}|OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem.csproj|solutionrelative:onlinebookcatalogingsystem\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74BF739F-E91F-41C2-A4D7-F91A22A10C23}|OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem.csproj|c:\\users\\user\\onedrive\\desktop\\onlinebookcatalogingsystem\\onlinebookcatalogingsystem\\onlinebookcatalogingsystem\\migrations\\onlinebookcatalogingsystemcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74BF739F-E91F-41C2-A4D7-F91A22A10C23}|OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem.csproj|solutionrelative:onlinebookcatalogingsystem\\migrations\\onlinebookcatalogingsystemcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{74BF739F-E91F-41C2-A4D7-F91A22A10C23}|OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem.csproj|c:\\users\\user\\onedrive\\desktop\\onlinebookcatalogingsystem\\onlinebookcatalogingsystem\\onlinebookcatalogingsystem\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74BF739F-E91F-41C2-A4D7-F91A22A10C23}|OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem.csproj|solutionrelative:onlinebookcatalogingsystem\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74BF739F-E91F-41C2-A4D7-F91A22A10C23}|OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem.csproj|c:\\users\\user\\onedrive\\desktop\\onlinebookcatalogingsystem\\onlinebookcatalogingsystem\\onlinebookcatalogingsystem\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74BF739F-E91F-41C2-A4D7-F91A22A10C23}|OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem.csproj|solutionrelative:onlinebookcatalogingsystem\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{74BF739F-E91F-41C2-A4D7-F91A22A10C23}|OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem.csproj|c:\\users\\user\\onedrive\\desktop\\onlinebookcatalogingsystem\\onlinebookcatalogingsystem\\onlinebookcatalogingsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{74BF739F-E91F-41C2-A4D7-F91A22A10C23}|OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem.csproj|solutionrelative:onlinebookcatalogingsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74BF739F-E91F-41C2-A4D7-F91A22A10C23}|OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem.csproj|c:\\users\\user\\onedrive\\desktop\\onlinebookcatalogingsystem\\onlinebookcatalogingsystem\\onlinebookcatalogingsystem\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74BF739F-E91F-41C2-A4D7-F91A22A10C23}|OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem.csproj|solutionrelative:onlinebookcatalogingsystem\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74BF739F-E91F-41C2-A4D7-F91A22A10C23}|OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem.csproj|c:\\users\\user\\onedrive\\desktop\\onlinebookcatalogingsystem\\onlinebookcatalogingsystem\\onlinebookcatalogingsystem\\onlinebookcatalogingsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{74BF739F-E91F-41C2-A4D7-F91A22A10C23}|OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem.csproj|solutionrelative:onlinebookcatalogingsystem\\onlinebookcatalogingsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,59 +62,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "OnlineBookCatalogingSystem\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\Models\\Category.cs",
-              "RelativeToolTip": "OnlineBookCatalogingSystem\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T08:22:38.026Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "OnlineBookCatalogingSystem\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "OnlineBookCatalogingSystem\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-08T07:16:56.466Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\Views\\Books\\Index.cshtml",
-              "RelativeDocumentMoniker": "OnlineBookCatalogingSystem\\Views\\Books\\Index.cshtml",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\Views\\Books\\Index.cshtml",
-              "RelativeToolTip": "OnlineBookCatalogingSystem\\Views\\Books\\Index.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-08T01:30:06.543Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "BookList.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\Views\\Home\\BookList.cshtml",
-              "RelativeDocumentMoniker": "OnlineBookCatalogingSystem\\Views\\Home\\BookList.cshtml",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\Views\\Home\\BookList.cshtml",
-              "RelativeToolTip": "OnlineBookCatalogingSystem\\Views\\Home\\BookList.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAcwB0AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-08T01:20:08.07Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -123,110 +72,166 @@
               "RelativeDocumentMoniker": "OnlineBookCatalogingSystem\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\Controllers\\HomeController.cs",
               "RelativeToolTip": "OnlineBookCatalogingSystem\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T01:18:13.167Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "OnlineBookCatalogingSystem\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "OnlineBookCatalogingSystem\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAcwEcAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-08T01:16:47.491Z",
+              "WhenOpened": "2025-05-13T01:03:11.595Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\Models\\Book.cs",
-              "RelativeDocumentMoniker": "OnlineBookCatalogingSystem\\Models\\Book.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\Models\\Book.cs",
-              "RelativeToolTip": "OnlineBookCatalogingSystem\\Models\\Book.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T01:01:47.315Z",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "OnlineBookCatalogingSystem\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "OnlineBookCatalogingSystem\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T13:39:01.365Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "OnlineBookCatalogingSystemContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\Migrations\\OnlineBookCatalogingSystemContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "OnlineBookCatalogingSystem\\Migrations\\OnlineBookCatalogingSystemContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\Migrations\\OnlineBookCatalogingSystemContextModelSnapshot.cs",
-              "RelativeToolTip": "OnlineBookCatalogingSystem\\Migrations\\OnlineBookCatalogingSystemContextModelSnapshot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAA1AAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "OnlineBookCatalogingSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "OnlineBookCatalogingSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAADgAAAAAAAAAAAAowE0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T13:10:54.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "OnlineBookCatalogingSystem\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "OnlineBookCatalogingSystem\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T00:56:56.713Z"
+              "WhenOpened": "2025-05-11T13:09:05.371Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "20250507084800_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\Migrations\\20250507084800_InitialCreate.cs",
-              "RelativeDocumentMoniker": "OnlineBookCatalogingSystem\\Migrations\\20250507084800_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\Migrations\\20250507084800_InitialCreate.cs",
-              "RelativeToolTip": "OnlineBookCatalogingSystem\\Migrations\\20250507084800_InitialCreate.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T00:56:53.466Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\appsettings.json",
-              "RelativeDocumentMoniker": "OnlineBookCatalogingSystem\\appsettings.json",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\appsettings.json",
-              "RelativeToolTip": "OnlineBookCatalogingSystem\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAADFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-07T12:42:28.598Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\Program.cs",
               "RelativeDocumentMoniker": "OnlineBookCatalogingSystem\\Program.cs",
               "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\Program.cs",
               "RelativeToolTip": "OnlineBookCatalogingSystem\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAowDcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T12:41:42.075Z",
+              "WhenOpened": "2025-05-11T12:38:01.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "OnlineBookCatalogingSystem\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "OnlineBookCatalogingSystem\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T00:57:11.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "OnlineBookCatalogingSystem\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "OnlineBookCatalogingSystem\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T00:49:44.431Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "BooksController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\Controllers\\BooksController.cs",
-              "RelativeDocumentMoniker": "OnlineBookCatalogingSystem\\Controllers\\BooksController.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\Controllers\\BooksController.cs",
-              "RelativeToolTip": "OnlineBookCatalogingSystem\\Controllers\\BooksController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "OnlineBookCatalogingSystem\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "OnlineBookCatalogingSystem\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T12:40:08.929Z",
+              "WhenOpened": "2025-05-13T00:54:54.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "OnlineBookCatalogingSystem\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "OnlineBookCatalogingSystem\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T12:58:49.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "OnlineBookCatalogingSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\appsettings.json",
+              "RelativeToolTip": "OnlineBookCatalogingSystem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-11T13:18:00.222Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "OnlineBookCatalogingSystemContext.cs",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\Data\\OnlineBookCatalogingSystemContext.cs",
-              "RelativeDocumentMoniker": "OnlineBookCatalogingSystem\\Data\\OnlineBookCatalogingSystemContext.cs",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\Data\\OnlineBookCatalogingSystemContext.cs",
-              "RelativeToolTip": "OnlineBookCatalogingSystem\\Data\\OnlineBookCatalogingSystemContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "OnlineBookCatalogingSystem\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "OnlineBookCatalogingSystem\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T13:38:00.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "OnlineBookCatalogingSystem\\ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "OnlineBookCatalogingSystem\\ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T12:32:53.038Z"
+              "WhenOpened": "2025-05-11T13:13:30.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OnlineBookCatalogingSystem.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem.csproj",
+              "RelativeDocumentMoniker": "OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem.csproj",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem.csproj",
+              "RelativeToolTip": "OnlineBookCatalogingSystem\\OnlineBookCatalogingSystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-11T12:44:28.021Z",
+              "EditorCaption": ""
             }
           ]
         }
