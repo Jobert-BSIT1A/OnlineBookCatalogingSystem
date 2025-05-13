@@ -1,4 +1,5 @@
 using System.Diagnostics;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using OnlineBookCatalogingSystem.Data;
@@ -17,6 +18,7 @@ namespace OnlineBookCatalogingSystem.Controllers
             _logger = logger;
         }
 
+        [Authorize]
         public IActionResult Index()
         {
 

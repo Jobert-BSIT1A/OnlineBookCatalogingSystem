@@ -1,4 +1,11 @@
-﻿<!DOCTYPE html>
+﻿@{
+    var page = ViewContext.RouteData.Values["Page"]?.ToString()?.ToLower();
+    var isLoginOrRegister = page == "/account/login" || page == "/account/register";
+}
+
+
+
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -37,29 +44,27 @@
                 </button>
 
                 <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
-                    <ul class="navbar-nav gap-3">
-                        <li class="nav-item @(ViewData["ActivePage"] as string == "Home" ? "active" : "")">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">
-                                <i class="fas fa-home"></i>
-                            </a>
-                        </li>
-                        <li class="nav-item @(ViewData["ActivePage"] as string == "BookList" ? "active" : "")">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Books" asp-action="Index">
-                                <i class="fas fa-book"></i>
-                            </a>
-                        </li>
-                        <li class="nav-item @(ViewData["ActivePage"] as string == "Favorites" ? "active" : "")">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">
-                                <i class="fas fa-heart"></i>
-                            </a>
-                        </li>
-                        <li class="nav-item @(ViewData["ActivePage"] as string == "UserProfile" ? "active" : "")">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Account" asp-action="Manage">
-                                <i class="fas fa-circle-user"></i>
-                            </a>
-                        </li>
+                    @if (!isLoginOrRegister)
+                    {
+                        <ul class="navbar-nav gap-3">
+                            <li class="nav-item @(ViewData["ActivePage"] as string == "Home" ? "active" : "")">
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">
+                                    <i class="fas fa-home"></i> Home
+                                </a>
+                            </li>
+                            <li class="nav-item @(ViewData["ActivePage"] as string == "BookList" ? "active" : "")">
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Books" asp-action="Index">
+                                    <i class="fas fa-book"></i> Books
+                                </a>
+                            </li>
+                            <li class="nav-item @(ViewData["ActivePage"] as string == "Favorites" ? "active" : "")">
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">
+                                    <i class="fas fa-heart"></i> Favorites
+                                </a>
+                            </li>
+                        </ul>
+                    }
 
-                    </ul>
 
                     <ul class="navbar-nav">
                         <partial name="_LoginPartial" />
