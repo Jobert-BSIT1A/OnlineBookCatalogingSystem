@@ -1,0 +1,10 @@
+@page
+@model AccessRevokedModel
+@{
+    ViewData["Title"] = "Access Revoked";
+}
+
+<header>
+    <h1 class="text-danger">@ViewData["Title"]</h1>
+    <p class="text-danger">Your Access has been revoke.</p>
+</header>
